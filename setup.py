@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="Tikweb",
-    version="1.0.0",
+    version="1.0.2",
     description="TikTok Web",
     author="Lariot",
     author_email="lariot.antsa@gmail.com",
